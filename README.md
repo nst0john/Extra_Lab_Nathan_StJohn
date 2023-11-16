@@ -1,1 +1,2 @@
 # Extra_Lab_Nathan_StJohn
+Created by Nathan St John for a lab activity for a class on geographic information systems. data was taken from the City of Niagara Falls Open Data Hub. Specifically, the Niagara Falls 2021 Census - Age Characteristics (https://open.niagarafalls.ca/datasets/niagara-falls-2021-census-age-characteristics-1/explore?location=43.053612%2C-79.089200%2C11.61) and a map of the Niagara Falls Medical Services (https://open.niagarafalls.ca/datasets/niagara-falls-medical-services/explore)
